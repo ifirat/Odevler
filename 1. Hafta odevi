@@ -1,3 +1,0 @@
-dosya = open ("ders1.txt", "w")
-print ("bu ilk denemedir", file=dosya)
-dosya.close()
